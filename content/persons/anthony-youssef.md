@@ -45,7 +45,7 @@ technologies:
 ---
 
 Ingénieur logiciel spécialisé en gestion et mise en place de d'outils DevOps,
-Je suis aussi comptétent sur du développement d'applications (mobile ou desktop)
+Je suis aussi compétent sur du développement d'applications (mobile ou desktop)
 et de sites web (principalement en tant que développeur back-end).
 J'ai aussi le bagage nécessaire pour occuper des positions de data scientist et
 travailler avec des équipes de recherche.
